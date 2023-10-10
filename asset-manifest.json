@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Travel-website/static/css/main.967a31e5.css",
+    "main.js": "/Travel-website/static/js/main.3ef81093.js",
+    "static/media/hero.png": "/Travel-website/static/media/hero.decd6e523fe133c3c563.png",
+    "static/media/Destination5.png": "/Travel-website/static/media/Destination5.8db742a0db2114f7116a.png",
+    "static/media/Destination2.png": "/Travel-website/static/media/Destination2.64eec9804e3149d26787.png",
+    "static/media/Destination1.png": "/Travel-website/static/media/Destination1.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination6.png": "/Travel-website/static/media/Destination6.b43b40ebcae365ec1bcf.png",
+    "static/media/Destination4.png": "/Travel-website/static/media/Destination4.c19a433ba2f75f2cd33b.png",
+    "static/media/Destination3.png": "/Travel-website/static/media/Destination3.b4028caa98dffd19d08e.png",
+    "index.html": "/Travel-website/index.html",
+    "main.967a31e5.css.map": "/Travel-website/static/css/main.967a31e5.css.map",
+    "main.3ef81093.js.map": "/Travel-website/static/js/main.3ef81093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967a31e5.css",
+    "static/js/main.3ef81093.js"
+  ]
+}
